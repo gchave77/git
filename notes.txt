@@ -1,0 +1,2 @@
+Create a new file using the command line named notes.txt
+Add some text to the file notes.txt
